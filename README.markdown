@@ -1,4 +1,3 @@
-===
 CWAC MergeAdapter: Stitching Together Rows
 ==========================================
 
